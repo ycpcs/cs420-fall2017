@@ -13,7 +13,7 @@ Wed, Aug 30    |  [Introduction](lectures/lecture1_introduction.pdf)            
 Fri, Sep 1     |  [OS Overview](lectures/lecture2_os_overview.pdf)                                                 |  OSC9 § 1.3 - 1.13    |
 | | |
 Mon, Sep 4     |  **NO CLASS**                                                                                     |                       |
-Wed, Sep 6     |  [Operating System Services & System Calls](lectures/lecture3_services_and_system_calls.pdf)      |  OSC9 § 2.1 - 2.5     |  <!-- [Homework #1](homework/Homework_Assignment_1.txt) <br> Due 9/13 in class <br> -->
+Wed, Sep 6     |  [Operating System Services & System Calls](lectures/lecture3_services_and_system_calls.pdf)      |  OSC9 § 2.1 - 2.5     |  [Homework #1](homework/Homework_Assignment_1.txt) <br> Due 9/13 in class
 Fri, Sep 8     |  [Operating System Structure](lectures/lecture4_operating_system_structure.pdf)                   |  OSC9 § 2.6 - 2.11    |  <!-- [Lab #1](labs/lab01.html) <br> Due 9/15 by 11:59 PM -->
 | | |
 Mon, Sep 11    |  [Processes](lectures/lecture5_processes.pdf)                                                     |  OSC9 § 3.1 - 3.3     |
