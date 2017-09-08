@@ -77,11 +77,13 @@ DONE
 
 The **```Makefile```** distributed with the lab has several test cases built-in
 
-* **TEST#1** - attempts to copy the text file named **```lorem.txt```** which is distributed with the lab
+* **TEST#1** - attempts to copy the text file named **```test1_input.txt```** that is distributed with the lab
 
-* **TEST#2** - attempts to copy a binary file, your compiled **```filecopy```** program
+* **TEST#2** - attempts to copy the text file named **```test2_input.txt```** that is distributed with the lab. In this case, the file is overwriting an existing, larger file.
 
-* **TEST#3** - This test attempts to copy a binary file again. However, this time instead of running **```filecopy```** to copy a file, **```filecopy_copy```** from **TEST #2** is used to copy a file.  This test will check to see that you correctly copied not just the contents of **```filecopy```**, but also that you copied 
+* **TEST#3** - attempts to copy a binary file, your compiled **```filecopy```** program
+
+* **TEST#4** - This test attempts to copy a binary file again. However, this time instead of running **```filecopy```** to copy a file, **```filecopy_copy```** from **TEST #3** is used to copy a file.  This test will check to see that you correctly copied not just the contents of **```filecopy```**, but also that you copied 
 
 
 To run the supplied test cases, type the following:
@@ -99,23 +101,42 @@ User input is in **bold**.
 
 =================================
 TEST #1
-Running filecopy on lorem.txt
+Running filecopy on test1_input.txt
 =================================
-./filecopy lorem.txt lorem_copy.txt
-  Copying lorem.txt to lorem_copy.txt
+./filecopy test1_input.txt test1_output.txt
+  Copying test1_input.txt to test1_output.txt
   DONE
 
 =================================
 Checking to see if files differ
 =================================
 
-Files lorem.txt and lorem_copy.txt are identical
+Files test1_input.txt and test1_output.txt are identical
 
 =================================
 
 
 =================================
 TEST #2
+Running filecopy on test2_input.txt
+ -- overwriting a long file with a shorter file
+=================================
+cp test1_input.txt test2_output.txt
+./filecopy test2_input.txt test2_output.txt
+  Copying test2_input.txt to test2_output.txt
+  DONE
+
+=================================
+Checking to see if files differ
+=================================
+
+Files test2_input.txt and test2_output.txt are identical
+
+=================================
+
+
+=================================
+TEST #3
 Running filecopy on filecopy
 =================================
 ./filecopy filecopy filecopy_copy
@@ -132,7 +153,7 @@ Files filecopy and filecopy_copy are identical
 
 
 =================================
-TEST #3
+TEST #4
 Running filecopy_copy on filecopy
 =================================
 ./filecopy_copy filecopy filecopy_copy_2
@@ -160,8 +181,8 @@ This lab will be graded on a 100 point scale. To receive full credit, your progr
 
  - **20 points** : Successfully compiles **WITH NO WARNINGS!**
  - **20 points** : Correct use of system calls
- - **20 points** : Successfully copies text files (e.g. TEST #1)
- - **20 points** : Successfully copies binary files (e.g. TEST #2)
+ - **20 points** : Successfully copies text files (e.g. TEST #1 and TEST #2)
+ - **20 points** : Successfully copies binary files (e.g. TEST #3 and TEST #4)
  - **10 points** : Checks **ALL** necessary error conditions
  - **10 points** : Properly closes files when done
 
