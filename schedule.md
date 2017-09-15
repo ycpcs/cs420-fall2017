@@ -18,7 +18,7 @@ Fri, Sep 8     |  [Operating System Structure](lectures/lecture4_operating_syste
 | | |
 Mon, Sep 11    |  [Processes](lectures/lecture5_processes.pdf)                                                     |  OSC9 § 3.1 - 3.3     |
 Wed, Sep 13    |  [Interprocess Communication](lectures/lecture6a_interprocess_communication.pdf)                  |  OSC9 § 3.4 - 3.7     |  [Homework #2](homework/Homework_Assignment_2.txt) <br> Due 9/18 in class
-Fri, Sep 15    |  [Interprocess Communication (continued)](lectures/lecture6b_client_server_communication.pdf)     |                       |  <!-- [Lab #2](labs/lab02.html) <br> Due 10/2 by 11:59 PM --> 
+Fri, Sep 15    |  [Interprocess Communication (continued)](lectures/lecture6b_client_server_communication.pdf)     |                       |  [Lab #2](labs/lab02.html) <br> Due 10/2 by 11:59 PM 
 | | |
 Mon, Sep 18    |  [Threads](lectures/lecture7_threads.pdf)                                                         |  OSC9 § 4.1 - 4.5     |  <!-- [Homework #3](homework/Homework_Assignment_3.txt) <br> Due 9/25 in class -->
 Wed, Sep 20    |  [Multithreading & Threading Issues](lectures/lecture8_threading_issues.pdf)                      |  OSC9 § 4.6 - 4.8     |  
