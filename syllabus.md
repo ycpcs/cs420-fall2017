@@ -86,7 +86,15 @@ Your grade in this course will be a weighted average based on the following weig
 
 ### Late Policy
 
-All assignments must be submitted by the specified due date. Solutions will be posted on the course web site after the due date. Late submissions will not be accepted, not even for partial credit. If you have some valid reason for needing more time on an assignment, then you should contact me at least two days before the deadline to request an extension. Last-minute requests will only be met in exceptional circumstances. If you cannot complete the entire assignment on time, you should submit what you have done by the specified due date for partial credit.
+All homework assignments must be submitted by the specified due date. Solutions will be posted on the course web site 
+or discussed in class on the specified due date. Late homework submissions will not be accepted, not even for partial credit. 
+If you have some valid reason for needing more time on a homework assignment, then you should contact me at least two days 
+before the deadline to request an extension. Last-minute requests will only be met in exceptional circumstances. If you 
+cannot complete the entire homework assignment on time, you should submit what you have done by the specified due date for 
+partial credit.
+
+For programming assignments/labs, late assignments will be marked down 20% per day late. 
+**No credit will be given for assignments that are more than three (3) days late.**
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
