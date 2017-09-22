@@ -16,11 +16,12 @@ Before starting this lab, you should read Section 2.3 of your text book.
 
 This lab is a 'warm-up' lab. Through this lab I hope to get a good feeling for your ability to write programs in **C** and your ability to make use of the **POSIX API** and system calls. For this lab, and the rest of the labs that follow this semester, you are required to develop in a **POSIX-compliant environment**. This includes Linux and UNIX systems. If you have your own Linux or UNIX based system feel free to develop in those environments.  Otherwise, you can use the lab compueters in KEC119.
 
-You can use any code editor you wish, but you can only use C system calls for reading/writing to the terminal screen and/or to the disk when copying your file. You may find the list of C system calls located [here](http://codewiki.wikidot.com/system-calls) useful. Specifically, you will need the following systems calls: **```open```**, **```close```**, **```write```**, and **```stat```**.  You may also find the functions **```strlen```** and **```exit```** useful.  In addition to the website linked above, you can also read about these functions using Linux's built in **man pages** by typing any of the following in your terminal:
+You can use any code editor you wish, but you can only use C system calls for reading/writing to the terminal screen and/or to the disk when copying your file. You may find the list of C system calls located [here](http://codewiki.wikidot.com/system-calls) useful. Specifically, you will need the following systems calls: **```open```**, **```close```**, **```read```**, **```write```**, and **```stat```**.  You may also find the functions **```strlen```** and **```exit```** useful.  In addition to the website linked above, you can also read about these functions using Linux's built in **man pages** by typing any of the following in your terminal:
 
 <pre>
 <b>man 2 open
 man 2 close
+man 2 read
 man 2 write
 man 2 stat
 man 3 strlen
