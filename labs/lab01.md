@@ -44,6 +44,8 @@ Write a C program that uses system calls to copy one file to another. Your progr
 
  - You MUST use C system calls to read/write to the terminal and disk
  
+ - When copying the source file to the destination file, use the buffer provided. You should attempt to read BUFFER_SIZE bytes at a time when copying (not a single byte).
+ 
  - Use the sources provided above to read about the various systems calls that you'll need before getting started.  A **_BIG_** **_BIG_** **_BIG_** part of this lab is learning how to read documentation.  **If you do not read the documentation carefully, you will not be able to complete this lab.**
 
  - You **CANNOT** use **```fopen```**, **```fclose```**, **```printf```**, **```fprintf```**, **```scanf```**, etc.
