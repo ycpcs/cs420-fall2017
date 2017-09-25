@@ -24,7 +24,7 @@ Mon, Sep 18    |  [Threads](lectures/lecture7_threads.pdf)                      
 Wed, Sep 20    |  [Multithreading & Threading Issues](lectures/lecture8_threading_issues.pdf)                      |  OSC9 § 4.6 - 4.8     |  
 Fri, Sep 22    |  More on Threading                                                                                |                       |  
 | | |
-Mon, Sep 25    |  [CPU Scheduling](lectures/lecture9_cpu_scheduling.pdf)                                           |  OSC9 § 6.1 - 6.4     |  <!-- [Homework #4](homework/Homework_Assignment_4.txt) <br> Due 10/2 in class -->
+Mon, Sep 25    |  [CPU Scheduling](lectures/lecture9_cpu_scheduling.pdf)                                           |  OSC9 § 6.1 - 6.4     |  [Homework #4](homework/Homework_Assignment_4.txt) <br> Due 10/2 in class
 Wed, Sep 27    |  [CPU Scheduling (continued)](lectures/lecture9_cpu_scheduling.pdf)                               |                       |
 Fri, Sep 29    |  [Multiple-Processor Scheduling](lectures/lecture10_multiprocessor_scheduling.pdf)                |  OSC9 § 6.5 - 6.9     |
 | | |
