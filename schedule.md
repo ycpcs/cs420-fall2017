@@ -32,7 +32,7 @@ Mon, Oct 2     |  Review for Exam #1                                            
 Wed, Oct 4     |  **Exam #1**                                                                                      |                       |
 Fri, Oct 6     |  [Process Synchronization](lectures/lecture11_process_synchronization.pdf)                        |  OSC9 § 5.1 - 5.6     |
 | | |
-Mon, Oct 9     |  [Semaphores](lectures/lecture11_process_synchronization.pdf)                                     |  OSC9 § 5.1 - 5.6     |
+Mon, Oct 9     |  [Semaphores](lectures/lecture11_process_synchronization.pdf)                                     |  OSC9 § 5.1 - 5.6     |  [Lab #3](labs/lab03.html) <br> Due 10/27 by 11:59 PM
 Wed, Oct 11    |  [Classic Problems of Synchronization](lectures/lecture12_classic_synchronization_problems.pdf)   |  OSC9 § 5.7 - 5.11    |  <!-- [Lab #3](labs/lab03.html) <br> Due 10/27 by 11:59 PM -->
 Fri, Oct 13    |  More on Semaphores and Synchronization                                                           |                       |
 | | |
