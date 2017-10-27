@@ -42,7 +42,7 @@ Fri, Oct 20    |  [Deadlock Avoidance](lectures/lecture13+14+15_deadlock.pdf)   
 | | |
 Mon, Oct 23    |  [Deadlock Detection, and Recovery](lectures/lecture13+14+15_deadlock.pdf)                        |  OSC9 § 7.6 - 7.8     |
 Wed, Oct 25    |  [Main Memory - Swapping and Allocation](lectures/lecture16_main_memory.pdf)                      |  OSC9 § 8.1 - 8.4     |
-Fri, Oct 27    |  [Paging & Paging Tables](lectures/lecture17_paging_and_page_tables.pdf)                          |  OSC9 § 8.5 - 8.6     |  <!-- [Homework #6](homework/Homework_Assignment_6.txt) <br> Due 11/6 in class -->
+Fri, Oct 27    |  [Paging & Paging Tables](lectures/lecture17_paging_and_page_tables.pdf)                          |  OSC9 § 8.5 - 8.6     |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due 11/1 in class
 | | |
 Mon, Oct 30    |  [Virtual Memory](lectures/lecture18_virtual_memory.pdf)                                          |  OSC9 § 9.2 - 9.6     |  
 Wed, Nov 1     |  [Virtual Memory (continued)](lectures/lecture18_virtual_memory.pdf)                              |                       |  <!-- [Homework #7](homework/Homework_Assignment_7.txt) <br> Due 11/6 in class -->
